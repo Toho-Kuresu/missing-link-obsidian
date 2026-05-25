@@ -6,18 +6,18 @@ title: 存在
 
 ## 人類
 
-- [Era=Shaitan](./人類/Era=Shaitan)
-- [中村透](./人類/中村透)
-- [手束継幹](./人類/手束継幹)
-- [穹那](./人類/穹那)
+- [[MISSING LINK/存在/人類/Era=Shaitan|Era=Shaitan]]
+- [[MISSING LINK/存在/人類/中村透|中村透]]
+- [[MISSING LINK/存在/人類/手束継幹|手束継幹]]
+- [[MISSING LINK/存在/人類/穹那|穹那]]
 
 ## 神格
 
-- [Mh'ithrha](./神格/Mh'ithrha)
-- [Nyarlathotep](./神格/Nyarlathotep)
-- [Tue=Toolagh](./神格/Tue=Toolagh)
-- [虚無](./神格/虚無)
+- [[MISSING LINK/存在/神格/Mh'ithrha|Mh'ithrha]]
+- [[MISSING LINK/存在/神格/Nyarlathotep|Nyarlathotep]]
+- [[MISSING LINK/存在/神格/Tue=Toolagh|Tue=Toolagh]]
+- [[MISSING LINK/存在/神格/虚無|虚無]]
 
 ## 神話生物
 
-- [Shoggoth Lord Proposition ”Interference”](./神話生物/Shoggoth%20Lord%20Proposition%20”Interference”)
+- [[MISSING LINK/存在/神話生物/Shoggoth Lord Proposition ”Interference”|Shoggoth Lord Proposition ”Interference”]]

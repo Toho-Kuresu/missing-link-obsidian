@@ -6,10 +6,10 @@ title: MISSING LINK
 
 世界観設定の公開用トップです。
 
-- [インシデント](./インシデント/)
-- [カテゴリー](./カテゴリー/)
-- [システム](./システム/)
-- [存在](./存在/)
+- [[MISSING LINK/インシデント/index|インシデント]]
+- [[MISSING LINK/カテゴリー/index|カテゴリー]]
+- [[MISSING LINK/システム/index|システム]]
+- [[MISSING LINK/存在/index|存在]]
 
 現在の公開用 content に合わせて、入口をこの4区分に整理しています。
 
