@@ -14,7 +14,17 @@ title: カテゴリー
 
 ## 種族
 
+- [[MISSING LINK/カテゴリー/種族/Hounds of Tindalos|Hounds of Tindalos]]
 - [[MISSING LINK/カテゴリー/種族/M-Creature|M-Creature]]
+- [[MISSING LINK/カテゴリー/種族/Shoggoth Lord|Shoggoth Lord]]
+
+## 称号
+
+- [[MISSING LINK/カテゴリー/称号/Great Old One|Great Old One]]
+- [[MISSING LINK/カテゴリー/称号/Holder|Holder]]
+- [[MISSING LINK/カテゴリー/称号/Outer God|Outer God]]
+- [[MISSING LINK/カテゴリー/称号/”命題”|”命題”]]
+- [[MISSING LINK/カテゴリー/称号/新支配者|新支配者]]
 
 ## 組織
 

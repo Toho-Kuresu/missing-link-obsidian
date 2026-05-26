@@ -11,9 +11,16 @@ title: システム
 
 ## 概念
 
+- [[MISSING LINK/システム/概念/”門”|”門”]]
 - [[MISSING LINK/システム/概念/Kruschtya方程式|Kruschtya方程式]]
+- [[MISSING LINK/システム/概念/とがった時間|とがった時間]]
+- [[MISSING LINK/システム/概念/曲がった時間|曲がった時間]]
 - [[MISSING LINK/システム/概念/第六感|第六感]]
 - [[MISSING LINK/システム/概念/魔法少女計畫|魔法少女計畫]]
+
+## 法則
+
+- [[MISSING LINK/システム/法則/Tindalos係数|Tindalos係数]]
 
 ## 装置
 

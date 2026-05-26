@@ -13,11 +13,12 @@ title: 存在
 
 ## 神格
 
+- [[MISSING LINK/存在/神格/Azathoth|Azathoth]]
 - [[MISSING LINK/存在/神格/Mh'ithrha|Mh'ithrha]]
 - [[MISSING LINK/存在/神格/Nyarlathotep|Nyarlathotep]]
 - [[MISSING LINK/存在/神格/Tue=Toolagh|Tue=Toolagh]]
-- [[MISSING LINK/存在/神格/虚無|虚無]]
 
 ## 神話生物
 
 - [[MISSING LINK/存在/神話生物/Shoggoth Lord Proposition ”Interference”|Shoggoth Lord Proposition ”Interference”]]
+
