@@ -17,6 +17,7 @@ title: 存在
 - [[MISSING LINK/存在/神格/Mh'ithrha|Mh'ithrha]]
 - [[MISSING LINK/存在/神格/Nyarlathotep|Nyarlathotep]]
 - [[MISSING LINK/存在/神格/Tue=Toolagh|Tue=Toolagh]]
+- [[MISSING LINK/存在/神格/Ubbo=Sathla|Ubbo=Sathla]]
 
 ## 神話生物
 

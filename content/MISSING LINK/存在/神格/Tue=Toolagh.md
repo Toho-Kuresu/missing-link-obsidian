@@ -1,5 +1,5 @@
 ---
-edit:
+edit: edited
 type: 神格
 rank: Great Old One
 species:
