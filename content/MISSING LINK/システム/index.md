@@ -11,6 +11,7 @@ title: システム
 
 ## 概念
 
+- [[MISSING LINK/システム/概念/”石板”|”石板”]]
 - [[MISSING LINK/システム/概念/”門”|”門”]]
 - [[MISSING LINK/システム/概念/Kruschtya方程式|Kruschtya方程式]]
 - [[MISSING LINK/システム/概念/とがった時間|とがった時間]]

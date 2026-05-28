@@ -16,6 +16,8 @@ title: カテゴリー
 
 - [[MISSING LINK/カテゴリー/種族/Hounds of Tindalos|Hounds of Tindalos]]
 - [[MISSING LINK/カテゴリー/種族/M-Creature|M-Creature]]
+- [[MISSING LINK/カテゴリー/種族/Old Ones|Old Ones]]
+- [[MISSING LINK/カテゴリー/種族/Shoggoth|Shoggoth]]
 - [[MISSING LINK/カテゴリー/種族/Shoggoth Lord|Shoggoth Lord]]
 
 ## 称号
