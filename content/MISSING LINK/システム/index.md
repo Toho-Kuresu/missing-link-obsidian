@@ -21,9 +21,9 @@ title: システム
 
 ## 法則
 
-- [[MISSING LINK/システム/法則/Tindalos係数|Tindalos係数]]
+- [[MISSING LINK/システム/概念/Tindalos係数|Tindalos係数]]
 
 ## 装置
 
-- [[MISSING LINK/システム/装置/Doll's|Doll's]]
+- [[MISSING LINK/システム/装置/ドールズ|ドールズ]]
 - [[MISSING LINK/システム/装置/QinRED|QinRED]]
