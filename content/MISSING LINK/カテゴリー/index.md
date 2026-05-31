@@ -11,6 +11,7 @@ title: カテゴリー
 - [[MISSING LINK/カテゴリー/企業/Outcast Company|Outcast Company]]
 - [[MISSING LINK/カテゴリー/企業/Player One Industries|Player One Industries]]
 - [[MISSING LINK/カテゴリー/企業/”政府”|”政府”]]
+- [[MISSING LINK/カテゴリー/企業/歛斬重機工業株式会社|歛斬重機工業株式会社]]
 
 ## 種族
 
@@ -24,12 +25,17 @@ title: カテゴリー
 
 - [[MISSING LINK/カテゴリー/称号/Great Old One|Great Old One]]
 - [[MISSING LINK/カテゴリー/称号/Holder|Holder]]
+- [[MISSING LINK/カテゴリー/称号/Old Snatcher|Old Snatcher]]
 - [[MISSING LINK/カテゴリー/称号/Outer God|Outer God]]
+- [[MISSING LINK/カテゴリー/称号/Try Force|Try Force]]
 - [[MISSING LINK/カテゴリー/称号/”命題”|”命題”]]
+- [[MISSING LINK/カテゴリー/称号/倫理設計士|倫理設計士]]
 - [[MISSING LINK/カテゴリー/称号/新支配者|新支配者]]
 
 ## 組織
 
 - [[MISSING LINK/カテゴリー/組織/Over There|Over There]]
+- [[MISSING LINK/カテゴリー/組織/S.S.A.C|S.S.A.C]]
+- [[MISSING LINK/カテゴリー/組織/企業連|企業連]]
 - [[MISSING LINK/カテゴリー/組織/虚無派|虚無派]]
 - [[MISSING LINK/カテゴリー/組織/阿頼耶識|阿頼耶識]]
