@@ -1,11 +1,7 @@
 import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { Date, getDate } from "./Date"
-import {
-  compareCustomFrontmatter,
-  FrontmatterFieldsDisplay,
-  frontmatterFieldsStyles,
-} from "./FrontmatterFields"
+import { compareCustomFrontmatter } from "./FrontmatterFields"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import { GlobalConfiguration } from "../cfg"
 
@@ -122,7 +118,6 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                     {title}
                   </a>
                 </h3>
-                <FrontmatterFieldsDisplay frontmatter={page.frontmatter as Record<string, unknown> | undefined} variant="inline" />
               </div>
               <ul class="tags">
                 {tags.map((tag) => (
@@ -145,8 +140,6 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
 }
 
 PageList.css = `
-${frontmatterFieldsStyles}
-
 .section h3 {
   margin: 0;
 }
