@@ -1,8 +1,8 @@
 ---
-species:
-rank: Outer God
-type: 神格
 edit: edited
+type: 神格
+rank: Outer God
+species:
 ---
 ```
 矛盾や無秩序をいくら語ったところで、己達がそうではないという保証など出来はしないのだ。

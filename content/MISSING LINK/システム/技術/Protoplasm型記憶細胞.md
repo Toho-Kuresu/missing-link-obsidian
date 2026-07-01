@@ -1,7 +1,7 @@
 ---
-edit: edited
-producer: 企業
 type: 技術
+producer: 企業
+edit: edited
 ---
 ```
 人の形が人に都合が良すぎるという人間原理は通り越した。

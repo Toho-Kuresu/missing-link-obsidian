@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.inFolder("MISSING LINK/存在")
+    order:
+      - file.name
+      - type
+      - species
+      - rank
+      - edit
+    sort:
+      - property: type
+        direction: DESC
+    columnSize:
+      note.type: 111

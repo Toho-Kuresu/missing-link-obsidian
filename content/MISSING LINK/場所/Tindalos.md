@@ -1,6 +1,6 @@
 ---
-edit: edited
 scale: space
+edit: edited
 ---
 ```
 神が憎むなら殺せば良い。角度が無いなら作れば良い。

@@ -1,8 +1,8 @@
 ---
-species:
-rank: Outer God
-type: 神格
 edit: edited
+type: 神格
+rank: Outer God
+species:
 ---
 ```
 謳われぬ世界たる者。自存する源。

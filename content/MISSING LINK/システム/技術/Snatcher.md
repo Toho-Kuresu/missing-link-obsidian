@@ -1,7 +1,7 @@
 ---
-type: 技術
-producer: 企業
 edit: edited
+producer: 企業
+type: 技術
 ---
 ```
 奪い、生き、そして辿り着け。簒奪者の汚名は、玉座と治世によってのみ克服される。

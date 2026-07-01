@@ -1,7 +1,7 @@
 ---
-edit: edited
-producer: 企業
 type: 技術
+producer: 企業
+edit: edited
 ---
 ```
 技術が多くを解決して人を掌握する？　そうだなぁ、人類の我々への信頼は嬉しい誤算だ。

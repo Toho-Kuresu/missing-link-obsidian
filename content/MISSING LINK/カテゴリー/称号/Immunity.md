@@ -1,7 +1,7 @@
 ---
-edit: edited
-attribution:
 type: 称号
+attribution:
+edit: edited
 ---
 ```
 Try Forceは傲慢にも、第一次防衛戦線の英雄の筆頭をそう名付けた。そして、それが歴史という聳え立つ壁と収斂という悪魔を証明し続けてしまっている。

@@ -1,7 +1,7 @@
 ---
-edit: edited
-producer: とがった時間
 type: 概念
+producer: とがった時間
+edit: edited
 ---
 ```
 我らを厭い、我らを恨み、我らを疎む聖数の者共へのカウントダウン。

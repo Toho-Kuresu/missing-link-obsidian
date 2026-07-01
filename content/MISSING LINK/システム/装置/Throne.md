@@ -1,7 +1,7 @@
 ---
-edit: edited
-producer: 企業
 type: 装置
+producer: 企業
+edit: edited
 ---
 ```
 人類に玉座なし。故に我らは簒奪する。
