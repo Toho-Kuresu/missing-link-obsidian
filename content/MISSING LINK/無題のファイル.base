@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.name != "index"
+    order:
+      - file.name
+      - edit
+    sort:
+      - property: edit
+        direction: ASC
