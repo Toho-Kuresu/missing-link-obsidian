@@ -1,5 +1,0 @@
----
-title: Shoggoth
----
-
-# Shoggoth

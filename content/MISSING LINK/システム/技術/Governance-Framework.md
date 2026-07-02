@@ -1,7 +1,7 @@
 ---
-producer: 企業
-type: 技術
 edit: edited
+type: 技術
+producer: 企業
 ---
 ```
 企業の壁内統治すらTry Forceの与えたものだとして、私達は一体何であれば自ら選んだ形を持っているというのだ。

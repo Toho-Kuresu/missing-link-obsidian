@@ -1,5 +1,5 @@
 ---
-type: 概念
-producer: Nyarlathotep
 edit:
+producer: Nyarlathotep
+type: 概念
 ---
